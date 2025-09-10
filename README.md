@@ -1,4 +1,4 @@
-# 🏐 API Galera do Vôlei - FastAPI
+# API Galera do Vôlei - FastAPI
 
 ## Documentação da API: [docs](https://github.com/samleticias/galera-volei/blob/main/tabela-api-volei.pdf)
 
