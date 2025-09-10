@@ -7,9 +7,7 @@
 ### Jogadores
 
 - GET /jogador → Listar jogadores
-
 - POST /jogador → Registrar jogador
-
 - PATCH /jogador/{id} → Editar jogador
 
 ### Locais
